@@ -1,0 +1,14 @@
+body{
+  background-color: var(--WhatsappBackgroundColor);
+  color: white;
+  margin: 0;
+  --WhatsappNavBarColor: #1f2c34;
+  --WhatsappFontColor: #7288c5;
+  --WhatsappBackgroundColor: rgb(25, 24, 35);
+  --WhatsappBorderColor: gray;
+  --WhatsappEffectColor: darkslategrey;
+}
+
+*::-webkit-scrollbar{
+  display: none;
+}

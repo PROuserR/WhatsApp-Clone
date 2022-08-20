@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nina",
+      "last_message": {
+        "id": 13,
+        "my_id": 1,
+        "peer_id": 2,
+        "content": "Is this even working?",
+        "time_sent": "22:56"
+      }
+    },
+    {
+      "id": 2,
+      "name": "rami",
+      "last_message": {
+        "id": 11,
+        "my_id": 2,
+        "peer_id": 1,
+        "content": "shit",
+        "time_sent": "22:22"
+      }
+    },
+    {
+      "id": 3,
+      "name": "jack",
+      "last_message": {}
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "Hello",
+      "time_sent": "2022-08-19T16:17:48.881Z"
+    },
+    {
+      "id": 2,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "hi",
+      "time_sent": "2022-08-19T16:53:52.077Z"
+    },
+    {
+      "id": 3,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "Anybody here?",
+      "time_sent": "2022-08-19T16:56:52.147Z"
+    },
+    {
+      "id": 4,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "hey",
+      "time_sent": "2022-08-19T16:57:17.644Z"
+    },
+    {
+      "id": 5,
+      "my_id": 1,
+      "peer_id": 2,
+      "content": "ya",
+      "time_sent": "2022-08-19T17:05:40.870Z"
+    },
+    {
+      "id": 6,
+      "my_id": 1,
+      "peer_id": 2,
+      "content": "what's up",
+      "time_sent": "2022-08-19T17:05:47.203Z"
+    },
+    {
+      "id": 7,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "anybody?",
+      "time_sent": "2022-08-19T19:02:54.188Z"
+    },
+    {
+      "id": 8,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "what",
+      "time_sent": "2022-08-19T19:03:37.013Z"
+    },
+    {
+      "id": 9,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "hey",
+      "time_sent": "2022-08-19T19:09:57.416Z"
+    },
+    {
+      "id": 10,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "wtf",
+      "time_sent": "2022-08-19T19:11:36.900Z"
+    },
+    {
+      "id": 11,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "shit",
+      "time_sent": "2022-08-19T19:22:28.059Z"
+    },
+    {
+      "id": 12,
+      "my_id": 1,
+      "peer_id": 2,
+      "content": "what's going on",
+      "time_sent": "2022-08-19T19:51:32.374Z"
+    },
+    {
+      "id": 13,
+      "my_id": 1,
+      "peer_id": 2,
+      "content": "Is this even working?",
+      "time_sent": "2022-08-19T19:56:45.583Z"
+    },
+    {
+      "id": 14,
+      "my_id": 2,
+      "peer_id": 1,
+      "content": "wait",
+      "time_sent": "2022-08-19T19:58:13.589Z"
+    }
+  ]
+}
